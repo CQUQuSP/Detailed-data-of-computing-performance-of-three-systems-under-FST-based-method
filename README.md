@@ -5,8 +5,8 @@ This repository contains the detailed computational results for three test syste
 
 | File | System | Load IDs | Threads per load | Data rows |
 |---|---|---:|---:|---:|
-| `Case_study_results_detail_Practical System.pdf` | Practical system | 0-99 | 2 | 300 |
-| `Case_study_results_detail_Polish.pdf` | Polish system | 0-99 | 10 | 1100 |
+| `Case_study_results_detail_Practical System.pdf` | Utility system | 0-99 | 2 | 300 |
+| `Case_study_results_detail_Polish.pdf` | Polish2383 system | 0-99 | 10 | 1100 |
 | `Case_study_results_detail_RTS.pdf` | RTS system | 0-99 | 2 | 300 |
 
 Each workbook contains one worksheet named `results`.
